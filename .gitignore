@@ -2,3 +2,7 @@ data/
 venv/
 requirements.in
 .ipynb_checkpoints
+.DS_Store
+.gitignore.save
+.ipynb_checkpoints
+.DS_Store
